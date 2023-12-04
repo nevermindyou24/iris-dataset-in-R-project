@@ -1,0 +1,10 @@
+?iris
+head(iris,10)
+tail(iris,10)
+summary(iris)
+names(iris)
+unique(iris$Species)
+cor(iris[, 1:3])
+str(iris)
+sum(is.na(iris))
+dim(iris)
